@@ -2038,7 +2038,7 @@ section{padding:85px 0}
 #footer .footer-contact .footer-logo{max-width:270px;max-height:100px;object-fit:contain;object-position:left center;margin-bottom:8px}
 #footer .copyright{border-top:1px solid rgba(214,162,58,.15);color:#9f9282}
 #footer strong{color:var(--restaurant-gold-light)}
-.breadcrumbs{background:#120d08;border-bottom:1px solid rgba(214,162,58,.25);padding:32px 0}
+.breadcrumbs{background:#120d08;border-bottom:1px solid rgba(214,162,58,.25);padding:32px 0; margin-top: 100px}
 .breadcrumbs h2{color:#fff;font-size:38px;margin:0}
 .breadcrumbs ol li{color:#cbbda9}
 .breadcrumbs ol a{color:var(--restaurant-gold-light)}
