@@ -829,7 +829,7 @@ section {
 .breadcrumbs ol li+li::before {
   display: inline-block;
   padding-right: 10px;
-  color: #6c757d;
+  color: #b77c1f;
   content: "/";
 }
 
@@ -889,12 +889,12 @@ section {
 }
 
 .about .icon-box .icon i {
-  color: #2b3f5d;
+  color: #d6a23a;
   font-size: 32px;
 }
 
 .about .icon-box:hover .icon {
-  background: #2b3f5d;
+  background: #b77c1f;
 }
 
 .about .icon-box:hover .icon i {
@@ -1131,12 +1131,12 @@ section {
 }
 
 .services .title a {
-  color: #444;
+  color: #b77c1f;
   transition: 0.3s;
 }
 
 .services .title a:hover {
-  color: #2b3f5d;
+  color: #b77c1f;
 }
 
 .services .title::after {
@@ -1245,7 +1245,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-info a {
-  color: #2b3f5d;
+  color: #d6a23a;
   margin: 0 4px;
   line-height: 0;
   background-color: #fff;
@@ -1265,7 +1265,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-info a:hover {
-  background: #2b3f5d;
+  background: #b77c1f;
   color: #fff;
 }
 
@@ -1442,7 +1442,7 @@ section {
 }
 
 .team .member .social a:hover {
-  color: #2b3f5d;
+  color: #b77c1f;
 }
 
 .team .member .social i {
@@ -1725,7 +1725,7 @@ section {
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
   /* color: #2b3f5d; */
-  color: #2b3f5d;
+  color: #d6a23a;
   font-size: 18px;
   line-height: 1;
 }
@@ -1748,7 +1748,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #2b3f5d;
+  color: #b77c1f;
 }
 
 #footer .footer-top .footer-newsletter form {
@@ -1807,7 +1807,7 @@ section {
 }
 
 #footer .credits a {
-  color: #0A84FF;
+  color: #b77c1f;
   
 }
 
